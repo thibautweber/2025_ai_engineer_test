@@ -6,7 +6,7 @@ Ce rapport présente une analyse des risques détectés sur le lieu de travail �
 ## Données utilisées
 - Images panoramiques HD
 - Détections de personnes
-- Indications de risques (cad42)
+- Indications de risques 
 - Météo
 - Cadre réglementaire
 
