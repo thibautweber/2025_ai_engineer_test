@@ -7,7 +7,7 @@ Ce projet utilise un système multi-agent pour analyser des images de chantier e
 
 ## Lancement
 1.  Clonez ce dépôt.
-2.  Créez un fichier `.env` à partir du fichier `.env.template` et remplissez vos clés API.
+2.  Remplissez vos clés API dans le fichier `.env`
 3.  Construisez l'image Docker :
     ```bash
     docker build -t risk-analysis-agent .
